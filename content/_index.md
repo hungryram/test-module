@@ -12,7 +12,7 @@ video_background:
   button_link: /listings
   enable_black_text: false
 slideshow:
-  - heading: THEME UNDER CONSTRUCTION
+  - heading: TESTING MODULE THEME
     subtitle:
     link_label: Read More
     link: https://www.hungryram.com
@@ -45,4 +45,8 @@ home_sections:
   - template: featured-listings
     heading:
     body:
+  - template:
+    heading:
+    body:
 ---
+
