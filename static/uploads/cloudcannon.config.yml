@@ -68,7 +68,6 @@ collection_groups:
       - contact
       - home-valuation
       - legal
-      - landing
   - heading: Blog
     collections:
       - blog
